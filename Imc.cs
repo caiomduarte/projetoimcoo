@@ -64,5 +64,11 @@ namespace Projeto_IMC_OO
 
             return situacao;
         }
+
+        //Criando um metodo que exibi o nome do usuario
+        public void ExibirNome()
+        {
+            MessageBox.Show("Seu nome é: Caio");
+        }
     }
 }

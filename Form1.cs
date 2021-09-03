@@ -41,5 +41,11 @@ namespace Projeto_IMC_OO
             Imc obj = new Imc();
             obj.LimparCampos(txtaltura, txtpeso, txtimc);
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            //Botao Sair
+            this.Close();
+        }
     }
 }
