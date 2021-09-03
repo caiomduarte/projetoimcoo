@@ -1,0 +1,10 @@
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\bin\Debug\Projeto IMC OO.exe.config
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\bin\Debug\Projeto IMC OO.exe
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\bin\Debug\Projeto IMC OO.pdb
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto IMC OO.csprojAssemblyReference.cache
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto_IMC_OO.Form1.resources
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto_IMC_OO.Properties.Resources.resources
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto IMC OO.csproj.GenerateResource.cache
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto IMC OO.csproj.CoreCompileInputs.cache
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto IMC OO.exe
+C:\Users\Caio Malheiros\source\repos\Projeto IMC OO\obj\Debug\Projeto IMC OO.pdb
